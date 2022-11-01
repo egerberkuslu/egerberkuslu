@@ -1,7 +1,7 @@
 ## Here are a few quick facts about me: 
 
 - 👨‍💻 I'm currently working for [Ege University Computer Engineering](https://bilmuh.ege.edu.tr/) as a Research Assistant.
-- 🎓 I have graduated from Computer[Yaşar Üniversity, B.Sc](https://ce.yasar.edu.tr/) Engineering.
+- 🎓 I have graduated from Computer [Yaşar Üniversity, B.Sc](https://ce.yasar.edu.tr/) Engineering.
 - 🌱 I'm studying on my M.Sc. Degree @[Ege University Computer Engineering](https://bilmuh.ege.edu.tr/).
 - ⌨️ Currently i'm working on natural language processing (NLP).
 - 🌐 Other subject that i'm interested in are Cyber Security and Wireless Sensor Networks (WSN) 
