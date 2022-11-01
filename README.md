@@ -10,4 +10,4 @@
 
 
 ## You can find me on: 
-- [LinkedIn](https://www.linkedin.com/in/egerberkuslu)
+- [LinkedIn](https://tr.linkedin.com/in/ege-erberk-uslu)
