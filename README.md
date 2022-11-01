@@ -1,5 +1,4 @@
-https://ce.yasar.edu.tr/## Here are a few quick facts about me: 
-
+## Here are a few quick facts about me: 
 
 - 👨‍💻 I'm currently working for [Ege University Computer Engineering](https://bilmuh.ege.edu.tr/) as a Research Assistant.
 - 🎓 I have graduated from Computer[Yaşar Üniversity, B.Sc](https://ce.yasar.edu.tr/) Engineering.
