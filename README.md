@@ -4,7 +4,7 @@
 - 🎓 I have graduated from Computer [Yaşar Üniversity, B.Sc](https://ce.yasar.edu.tr/) Engineering.
 - 🌱 I'm studying on my M.Sc. Degree @[Ege University Computer Engineering](https://bilmuh.ege.edu.tr/).
 - ⌨️ Currently i'm working on natural language processing (NLP).
-- 🌐 Other subject that i'm interested in are Cyber Security and Wireless Sensor Networks (WSN) 
+- 🌐 Other subject that i'm interested in are Cyber Security and Wireless Sensor Networks (WSN).
 - 💬 You can ask me about anything you want.
 - 📫 You can always send an e-mail to me at [egerberkuslu@gmail.com](mailto:egerberkuslu@gmail.com).
 
